@@ -2,4 +2,5 @@
 Learn PyTorch for FC, CNN, RNN
 
 # Reference
-[PyTorch Videos]{https://www.youtube.com/watch?v=9suSsTVhYuw}
+* [PyTorch Videos](https://www.youtube.com/watch?v=9suSsTVhYuw)
+* [PyTorch Git Repo] (https://github.com/yunjey/pytorch-tutorial)

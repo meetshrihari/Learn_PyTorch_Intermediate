@@ -1,9 +1,7 @@
 <div style="border-bottom:none;">
   <div align="center">
-    <img src="Logos/DL.png" width="300">
-    <h1>Deep Learning Exercises <h1>
-      <img src="Logos/fau-logo-tech.png" width="300">
-      <h2>Winter Semester 2019<h2>
+    <img src="Logo/PyTorch_logo.jpeg" width="300">
+    <h1>Learn PyTorch - Intermediate<h1>
   </div>
 </div>
 
